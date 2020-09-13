@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/Gabriel-Teixeira/Zend-Framework/blob/master/public/img/logo.svg" alt="logo.svg" height="100"/>
+    <img src="https://github.com/Gabriel-Teixeira/Zend-Framework/blob/master/public/img/zf-logo-mark.svg" alt="logo.svg" height="70"/>
 </p>
 <h1 align="center">
     🚀 Zend Framework 3
