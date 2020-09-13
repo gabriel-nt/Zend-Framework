@@ -33,7 +33,7 @@
 - [x] Deletar um determinado usuário
 
 ### ✅ Demonstração
-<img src="https://github.com/Gabriel-Teixeira/Blog/blob/master/public/img/dashboard.png" alt="Dashboard" />
+<img src="https://github.com/Gabriel-Teixeira/Zend-Framework/blob/master/public/img/user-list.png" alt="Dashboard" />
 
 ### ⚙ Pré-requisitos
 
